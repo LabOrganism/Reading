@@ -1,24 +1,24 @@
 
-The Adventures of Sherlock Holmes, by Arthur Conan Doyle
+𐑞 𐑨𐑛𐑝𐑧𐑯𐑗𐑩𐑟 𐑝 ·𐑖𐑻𐑤𐑪𐑒 ·𐑣𐑴𐑥𐑟, 𐑚𐑲 ·𐑼𐑔𐑩 ·𐑒𐑴𐑯𐑩𐑯 ·𐑛𐑶𐑤
 
 
 
-cover
+𐑒𐑳𐑝𐑩
 
 
 
-The Adventures of Sherlock Holmes
+𐑞 𐑨𐑛𐑝𐑧𐑯𐑗𐑩𐑟 𐑝 ·𐑖𐑻𐑤𐑪𐑒 ·𐑣𐑴𐑥𐑟
 
 
 
-by Arthur Conan Doyle
+𐑚𐑲 ·𐑼𐑔𐑩 ·𐑒𐑴𐑯𐑩𐑯 ·𐑛𐑶𐑤
 
 
 
-Contents
+𐑒𐑪𐑯𐑑𐑧𐑯𐑑𐑕
 
 
-   I.     A Scandal in Bohemia
+   I.     𐑩 𐑕𐑒𐑨𐑯𐑛𐑩𐑤 𐑦𐑯 ·𐑚𐑴𐑣𐑰𐑥𐑾
    II.    The Red-Headed League
    III.   A Case of Identity
    IV.    The Boscombe Valley Mystery
@@ -33,28 +33,21 @@ Contents
 
 
 
-I. A SCANDAL IN BOHEMIA
+I. 𐑩 𐑕𐑒𐑨𐑯𐑛𐑩𐑤 𐑦𐑯 ·𐑚𐑴𐑣𐑰𐑥𐑾
 
 
 I.
 
-To Sherlock Holmes she is always _the_ woman. I have seldom heard him
-mention her under any other name. In his eyes she eclipses and
-predominates the whole of her sex. It was not that he felt any emotion
-akin to love for Irene Adler. All emotions, and that one particularly,
-were abhorrent to his cold, precise but admirably balanced mind. He
-was, I take it, the most perfect reasoning and observing machine that
-the world has seen, but as a lover he would have placed himself in a
-false position. He never spoke of the softer passions, save with a gibe
-and a sneer. They were admirable things for the observer—excellent for
-drawing the veil from men’s motives and actions. But for the trained
-reasoner to admit such intrusions into his own delicate and finely
-adjusted temperament was to introduce a distracting factor which might
-throw a doubt upon all his mental results. Grit in a sensitive
-instrument, or a crack in one of his own high-power lenses, would not
-be more disturbing than a strong emotion in a nature such as his. And
-yet there was but one woman to him, and that woman was the late Irene
-Adler, of dubious and questionable memory.
+𐑑 ·𐑖𐑻𐑤𐑪𐑒 ·𐑣𐑴𐑥𐑟 𐑖𐑰 𐑦𐑟 𐑷𐑤𐑢𐑱𐑟 _𐑞_ 𐑢𐑫𐑥𐑩𐑯. ·𐑱 𐑣𐑨𐑝 𐑕𐑧𐑤𐑛𐑳𐑥 𐑣𐑻𐑛 𐑣𐑦𐑥 𐑥𐑧𐑯𐑖𐑩𐑯 𐑣𐑻 𐑳𐑯𐑛𐑩 𐑧𐑯𐑦 𐑳𐑞𐑩 𐑯𐑱𐑥. 𐑦𐑯 𐑣𐑦𐑟
+𐑲𐑟 𐑖𐑰 𐑧𐑒𐑤𐑦𐑐𐑕𐑩𐑕 𐑯 𐑐𐑮𐑦𐑛𐑪𐑥𐑦𐑯𐑱𐑑𐑕 𐑞 𐑣𐑴𐑤 𐑝 𐑣𐑻 𐑕𐑧𐑒𐑕. 𐑦𐑑 𐑢𐑪𐑟 𐑯𐑪𐑑 𐑞𐑨𐑑 𐑣𐑰 𐑓𐑧𐑤𐑑 𐑧𐑯𐑦 𐑦𐑥𐑴𐑖𐑩𐑯 𐑩𐑒𐑦𐑯 𐑑 𐑤𐑳𐑝 𐑓 ·𐑲𐑮𐑰𐑯
+·𐑨𐑛𐑤𐑩. 𐑷𐑤 𐑦𐑥𐑴𐑖𐑩𐑯𐑟, 𐑯 𐑞𐑨𐑑 𐑢𐑳𐑯 𐑐𐑼𐑑𐑦𐑒𐑿𐑤𐑼𐑤𐑦, 𐑢𐑻 𐑨𐑚𐑣𐑪𐑮𐑩𐑯𐑑 𐑑 𐑣𐑦𐑟 𐑒𐑴𐑤𐑛, 𐑐𐑮𐑧𐑕𐑲𐑕 𐑚𐑳𐑑 𐑨𐑛𐑥𐑻𐑩𐑚𐑤𐑦 𐑚𐑨𐑤𐑩𐑯𐑕𐑛 𐑥𐑲𐑯𐑛.
+𐑣𐑰 𐑢𐑪𐑟, 𐑠·𐑲 𐑑𐑱𐑒 𐑦𐑑, 𐑞 𐑥𐑴𐑕𐑑 𐑐𐑻𐑓𐑧𐑒𐑑 𐑮𐑰𐑟𐑪𐑯𐑦𐑙 𐑯 𐑪𐑚𐑟𐑻𐑝𐑦𐑙 𐑥𐑩𐑖𐑰𐑯 𐑞𐑩𐑑 𐑞 𐑢𐑻𐑤𐑛 𐑣𐑨𐑟 𐑕𐑰𐑯, 𐑚𐑳𐑑 𐑨𐑟 𐑩 𐑤𐑳𐑝𐑩 𐑣𐑰 𐑢𐑫𐑛
+𐑣𐑨𐑝 𐑐𐑤𐑱𐑕𐑛 𐑣𐑦𐑥𐑕𐑧𐑤𐑓 𐑦𐑯 𐑩 𐑓𐑪𐑤𐑕 𐑐𐑪𐑟𐑦𐑖𐑩𐑯. 𐑣𐑰 𐑯𐑧𐑝𐑩 𐑕𐑐𐑴𐑒 𐑝 𐑞 𐑕𐑪𐑓𐑑𐑩 𐑐𐑨𐑖𐑳𐑯𐑟, 𐑕𐑱𐑝 𐑢𐑦𐑞 𐑩 𐑡𐑲𐑚 𐑯 𐑩 𐑕𐑯𐑽. 𐑞𐑱 𐑢𐑻
+𐑨𐑛𐑥𐑻𐑩𐑚𐑩𐑤 𐑔𐑦𐑙𐑟 𐑓 𐑞 𐑪𐑚𐑟𐑻𐑝𐑻-𐑧𐑒𐑕𐑩𐑤𐑩𐑯𐑑 𐑓 𐑛𐑮𐑷𐑦𐑙 𐑞 𐑝𐑱𐑤 𐑓𐑮𐑪𐑥 𐑥𐑧𐑯𐑟 𐑥𐑴𐑑𐑦𐑝𐑟 𐑯 𐑨𐑒𐑖𐑩𐑯𐑟. 𐑚𐑳𐑑 𐑓 𐑞 𐑑𐑮𐑱𐑯𐑛 𐑮𐑰𐑟𐑪𐑯𐑩 𐑑
+𐑨𐑛𐑥𐑦𐑑 𐑕𐑳𐑗 𐑦𐑯𐑑𐑮𐑵𐑠𐑩𐑯𐑟 𐑦𐑯𐑑𐑵 𐑣𐑦𐑟 𐑴𐑯 𐑛𐑧𐑤𐑦𐑒𐑩𐑑 𐑯 𐑓𐑲𐑯𐑤𐑦 𐑨𐑡𐑳𐑕𐑑𐑩𐑛 𐑑𐑧𐑥𐑐𐑻𐑩𐑥𐑩𐑯𐑑 𐑢𐑪𐑟 𐑑 𐑦𐑯𐑑𐑮𐑩𐑛𐑿𐑕 𐑩 𐑛𐑦𐑕𐑑𐑮𐑨𐑒𐑑𐑦𐑙 𐑓𐑨𐑒𐑑𐑩 𐑢𐑦𐑗
+𐑥𐑲𐑑 𐑔𐑮𐑴 𐑛𐑬𐑑 𐑳𐑐𐑪𐑯 𐑷𐑤 𐑣𐑦𐑟 𐑥𐑧𐑯𐑑𐑩𐑤 𐑮𐑧𐑟𐑳𐑤𐑑𐑕. 𐑜𐑮𐑦𐑑 𐑦𐑯 𐑩 𐑕𐑧𐑯𐑕𐑩𐑑𐑦𐑝 𐑦𐑯𐑕𐑑𐑮𐑳𐑥𐑩𐑯𐑑, 𐑹 𐑩 𐑒𐑮𐑨𐑒 𐑦𐑯 𐑢𐑳𐑯 𐑝 𐑣𐑦𐑟 𐑴𐑯 𐑣𐑲-
+𐑐𐑬𐑩 𐑤𐑧𐑯𐑟𐑩𐑟, 𐑢𐑫𐑛 𐑯𐑪𐑑 𐑚𐑰 𐑥𐑹 𐑛𐑦𐑕𐑑𐑻𐑚𐑦𐑙 𐑞𐑨𐑯 𐑩 𐑕𐑑𐑮𐑪𐑙 𐑦𐑥𐑴𐑖𐑩𐑯 𐑦𐑯 𐑩 𐑯𐑱𐑗𐑩 𐑕𐑳𐑗 𐑨𐑟 𐑣𐑦𐑟. 𐑯 𐑘𐑧𐑑 𐑞𐑺 𐑢𐑪𐑟 𐑚𐑳𐑑 𐑢𐑳𐑯
+𐑢𐑫𐑥𐑩𐑯 𐑑 𐑣𐑦𐑥, 𐑯 𐑞𐑨𐑑 𐑢𐑫𐑥𐑩𐑯 𐑢𐑪𐑟 𐑞 𐑤𐑱𐑑 ·𐑲𐑮𐑰𐑯 ·𐑨𐑛𐑤𐑩, 𐑝 𐑛𐑿𐑚𐑾𐑕 𐑯 𐑒𐑢𐑧𐑕𐑗𐑳𐑯𐑩𐑚𐑩𐑤 𐑥𐑧𐑥𐑻𐑮𐑦.
 
 I had seen little of Holmes lately. My marriage had drifted us away
 from each other. My own complete happiness, and the home-centred
